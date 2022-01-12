@@ -1,0 +1,26 @@
+C:\Users\mpoly\source\repos\Proj2\Proj2\bin\Debug\netcoreapp3.1\Proj2.exe
+C:\Users\mpoly\source\repos\Proj2\Proj2\bin\Debug\netcoreapp3.1\Proj2.deps.json
+C:\Users\mpoly\source\repos\Proj2\Proj2\bin\Debug\netcoreapp3.1\Proj2.runtimeconfig.json
+C:\Users\mpoly\source\repos\Proj2\Proj2\bin\Debug\netcoreapp3.1\Proj2.runtimeconfig.dev.json
+C:\Users\mpoly\source\repos\Proj2\Proj2\bin\Debug\netcoreapp3.1\Proj2.dll
+C:\Users\mpoly\source\repos\Proj2\Proj2\bin\Debug\netcoreapp3.1\Proj2.pdb
+C:\Users\mpoly\source\repos\Proj2\Proj2\obj\Debug\netcoreapp3.1\Proj2.csprojAssemblyReference.cache
+C:\Users\mpoly\source\repos\Proj2\Proj2\obj\Debug\netcoreapp3.1\Proj2.AssemblyInfoInputs.cache
+C:\Users\mpoly\source\repos\Proj2\Proj2\obj\Debug\netcoreapp3.1\Proj2.AssemblyInfo.cs
+C:\Users\mpoly\source\repos\Proj2\Proj2\obj\Debug\netcoreapp3.1\Proj2.csproj.CoreCompileInputs.cache
+C:\Users\mpoly\source\repos\Proj2\Proj2\obj\Debug\netcoreapp3.1\Proj2.dll
+C:\Users\mpoly\source\repos\Proj2\Proj2\obj\Debug\netcoreapp3.1\Proj2.pdb
+C:\Users\mpoly\source\repos\Proj2\Proj2\obj\Debug\netcoreapp3.1\Proj2.genruntimeconfig.cache
+C:\Users\mpoly\Desktop\Proj c#\Myroslav Poliakov 53661\Proj2\obj\Debug\netcoreapp3.1\Proj2.csprojAssemblyReference.cache
+C:\Users\mpoly\Desktop\Proj c#\Myroslav Poliakov 53661\Proj2\obj\Debug\netcoreapp3.1\Proj2.AssemblyInfoInputs.cache
+C:\Users\mpoly\Desktop\Proj c#\Myroslav Poliakov 53661\Proj2\obj\Debug\netcoreapp3.1\Proj2.AssemblyInfo.cs
+C:\Users\mpoly\Desktop\Proj c#\Myroslav Poliakov 53661\Proj2\obj\Debug\netcoreapp3.1\Proj2.csproj.CoreCompileInputs.cache
+C:\Users\mpoly\Desktop\Proj c#\Myroslav Poliakov 53661\Proj2\obj\Debug\netcoreapp3.1\Proj2.genruntimeconfig.cache
+C:\Users\mpoly\Desktop\Proj c#\Myroslav Poliakov 53661\Proj2\bin\Debug\netcoreapp3.1\Kalkulator_2.exe
+C:\Users\mpoly\Desktop\Proj c#\Myroslav Poliakov 53661\Proj2\bin\Debug\netcoreapp3.1\Kalkulator_2.deps.json
+C:\Users\mpoly\Desktop\Proj c#\Myroslav Poliakov 53661\Proj2\bin\Debug\netcoreapp3.1\Kalkulator_2.runtimeconfig.json
+C:\Users\mpoly\Desktop\Proj c#\Myroslav Poliakov 53661\Proj2\bin\Debug\netcoreapp3.1\Kalkulator_2.runtimeconfig.dev.json
+C:\Users\mpoly\Desktop\Proj c#\Myroslav Poliakov 53661\Proj2\bin\Debug\netcoreapp3.1\Kalkulator_2.dll
+C:\Users\mpoly\Desktop\Proj c#\Myroslav Poliakov 53661\Proj2\bin\Debug\netcoreapp3.1\Kalkulator_2.pdb
+C:\Users\mpoly\Desktop\Proj c#\Myroslav Poliakov 53661\Proj2\obj\Debug\netcoreapp3.1\Kalkulator_2.dll
+C:\Users\mpoly\Desktop\Proj c#\Myroslav Poliakov 53661\Proj2\obj\Debug\netcoreapp3.1\Kalkulator_2.pdb
